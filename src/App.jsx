@@ -2,7 +2,9 @@ import React from 'react'
 
 function App() {
   return (
-    <div>App</div>
+    <>
+    <h1>This is App componenet</h1>
+    </>
   )
 }
 
